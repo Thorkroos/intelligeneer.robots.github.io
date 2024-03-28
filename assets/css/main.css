@@ -1673,6 +1673,11 @@ p.excerpt {
   margin-bottom: 30px;
 }
 
+.single-article-bg {
+  background-image: url(../img/latest-news/news-bg-3.jpg);
+  height: 450px;
+}
+
 .pagination-wrap {
   margin-top: 40px;
 }
@@ -1706,7 +1711,6 @@ p.excerpt {
 .single-article-bg {
   background-size: cover;
   background-position: center;
-
   background-image: url("/assets/img/PUDU_Family.jpg");
   border-radius: 5px;
   margin-bottom: 20px;
