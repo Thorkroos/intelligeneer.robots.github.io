@@ -1673,11 +1673,6 @@ p.excerpt {
   margin-bottom: 30px;
 }
 
-.single-artcile-bg {
-  background-image: url(../img/latest-news/news-bg-3.jpg);
-  height: 450px;
-}
-
 .pagination-wrap {
   margin-top: 40px;
 }
@@ -1708,7 +1703,7 @@ p.excerpt {
   background-color: #F28123;
 }
 
-.single-artcile-bg {
+.single-article-bg {
   background-size: cover;
   background-position: center;
 
