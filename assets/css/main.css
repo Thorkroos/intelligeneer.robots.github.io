@@ -1711,7 +1711,7 @@ p.excerpt {
 .single-article-bg {
   background-size: cover;
   background-position: center;
-  background-image: url("/assets/img/PUDU_Family.jpg");
+  background-image: url("assets/img/PUDU_Family.jpg");
   border-radius: 5px;
   margin-bottom: 20px;
 }
